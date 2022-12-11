@@ -1,0 +1,11 @@
+﻿namespace ConsoleProject
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+          
+            Bank bank = new Bank(2124);
+        }
+    }
+}
